@@ -119,7 +119,7 @@ const MenuContainer = styled.div`
       align-items: flex-start;
       width: 100%;
       padding: 4rem 0;
-      min-height: calc(100% - 60px); // Высота минус отступ для кнопки
+      min-height: calc(100% - 60px); /* Высота минус отступ для кнопки */
     }
   }
 
